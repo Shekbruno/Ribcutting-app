@@ -1,0 +1,6 @@
+{
+  "name": "Kathir Rib cutting",
+  "description": "High-speed single-screen accounts and credit ledger management app specialized for textile rib-cutting services in Tiruppur, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
